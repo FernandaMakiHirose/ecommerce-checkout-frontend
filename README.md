@@ -12,3 +12,6 @@ Neste projeto desenvolvi o frontend de uma solução de e-commerce com a arquite
 
 ## Front-end
 ![screencapture-file-C-Users-Maki-Downloads-ecommerce-checkout-frontend-cart-html-2021-08-13-20_48_49](https://user-images.githubusercontent.com/72028645/129427695-335faadc-9b72-4de1-93ab-ab4243b99d09.png)
+
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
